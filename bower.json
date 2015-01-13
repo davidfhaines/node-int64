@@ -1,0 +1,25 @@
+{
+  "name": "node-int64",
+  "version": "0.3.3",
+  "homepage": "https://github.com/broofa/node-int64",
+  "authors": [
+    "Robert Kieffer <robert@broofa.com>"
+  ],
+  "main": "Int64.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "int64"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
