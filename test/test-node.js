@@ -1,5 +1,5 @@
 var assert = require('assert');
-var Int64 = require('./Int64');
+var Int64 = require('../Int64');
 
 exports.setUp = function(done) {
   done();
